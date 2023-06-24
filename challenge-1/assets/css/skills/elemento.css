@@ -1,0 +1,18 @@
+.elemento{
+    width: 120px;
+    height: 110px;
+    background: #ffff;
+    margin: 0.4rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 2rem;
+    border-radius: 2rem;
+    box-shadow: 0 2px 2px 0 #353535;
+}
+@media screen and (min-width:768px) {
+    .elemento{
+       width: 200px;
+    }
+}

@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Raleway;
+    box-sizing: border-box;
+}
+
+.padding{
+    padding:1rem;
+}
+
+@media screen and (min-width: 768px){   
+    .padding{
+        padding: 2rem;
+    }
+    
+}

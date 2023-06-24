@@ -1,0 +1,11 @@
+.card__experiencia{
+    padding: 0;
+}
+@media screen and (min-width:768px) {
+    .card__experiencia{
+        display: flex;
+        flex-direction: column;
+        width: 60vw;
+       
+    }
+}

@@ -1,0 +1,38 @@
+
+.cabecera__lista{
+    display: flex;
+    list-style: none;
+    
+}
+.sobremi_list{
+    padding-left: 1rem;
+}
+.sobremi_list .ref{
+    display: flex;
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+}
+
+.sobremi_li-correo .ref2{
+    padding-left: 1rem;
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+}
+ @media  screen and (max-width: 768px) {
+    .sobremi_list .ref{
+        display: none;
+    }
+    
+ }
+
+
+/*
+.email{
+    display: inline-flex;
+    font-weight: 400;
+    color:#464646;
+    list-style: none;
+    padding-left: 1rem;
+}*/

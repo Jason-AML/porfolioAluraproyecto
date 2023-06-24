@@ -1,0 +1,20 @@
+.yo {
+    
+    display: flex;
+    flex-direction: column;
+    padding-top: 80px;
+    z-index: 1000;
+    
+
+}
+
+
+@media screen and (min-width:768px){
+    .yo{
+        display: flex;
+        flex-direction: column;
+        padding-top: 120px;
+        height: 300px;
+        z-index: 1000;
+    }
+}

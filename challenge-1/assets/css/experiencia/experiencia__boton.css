@@ -1,0 +1,11 @@
+.experiencia__boton{
+    margin-right: 1rem;
+    padding: 1rem;
+    font-weight: 600;
+    border-color: #2A7AE4;
+    color: #2A7AE4;
+    font-size: 14px;
+    cursor: pointer;
+    z-index: 1;
+}
+
